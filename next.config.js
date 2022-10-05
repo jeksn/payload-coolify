@@ -8,6 +8,7 @@ module.exports = {
   images: {
     domains: [
       'localhost',
+      'payload-coolify.vercel.app',
       // Your domain(s) here
     ],
     deviceSizes: sizes,
